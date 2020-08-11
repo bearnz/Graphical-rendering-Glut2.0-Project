@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/museum.out.dir/museum.cpp.o  -o museum.out -lGL -lGLU -lglut -lXmu -lXi 

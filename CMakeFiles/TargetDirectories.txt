@@ -1,0 +1,3 @@
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/CMakeFiles/rebuild_cache.dir
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/CMakeFiles/museum.out.dir
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/CMakeFiles/edit_cache.dir

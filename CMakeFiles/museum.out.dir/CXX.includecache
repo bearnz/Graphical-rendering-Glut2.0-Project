@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/loadBMP.h
+iostream
+-
+fstream
+-
+GL/freeglut.h
+-
+
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/loadTGA.h
+iostream
+-
+fstream
+-
+GL/freeglut.h
+-
+
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/museum.cpp
+iostream
+-
+fstream
+-
+climits
+-
+math.h
+-
+GL/freeglut.h
+-
+cmath
+-
+GL/glut.h
+-
+loadTGA.h
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/loadTGA.h
+loadBMP.h
+/home/cosc/student/jsm160/Desktop/COSC363/2020/Assignment/jsm160/loadBMP.h
+
