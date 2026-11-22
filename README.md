@@ -4,3 +4,12 @@ This was a project assignment I completed in my final year of Computer Science a
 In this project, the idea was to render an interactive scene of a museum in OpenGL 2.0 using using Glut.
 
 The CMakeFiles should allow you to run this program in Linux, running on windows requires a local installation of OpenGl 2.0 with Glut. 
+
+## Copyright
+
+Copyright (c) 2020-2022 Josh (github.com/bearnz). All rights reserved.
+
+No licence is granted. You are welcome to read this code and to fork it on
+GitHub; you may not use, copy, modify or redistribute it without permission.
+See [NOTICE](NOTICE) for the terms, and open an issue if you would like to use
+any of it.
